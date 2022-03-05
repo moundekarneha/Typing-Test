@@ -1,7 +1,7 @@
 # Typing-Test
 Project Description-
 
-Created generalised view of Typing test software. Where you can start the exam and check your typing speed. Test time is for 1 min. 
+Created generalised view of Typing test software. Where you can start the exam and check your typing speed in char/min. Test time is for 1 min. 
 
 Technological Stack-
 
